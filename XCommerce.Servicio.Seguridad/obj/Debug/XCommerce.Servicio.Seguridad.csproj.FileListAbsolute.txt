@@ -1,0 +1,96 @@
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.SqlServer.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.xml
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.SqlServer.xml
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csprojAssemblyReference.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csproj.CoreCompileInputs.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csproj.CopyComplete
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.SqlServer.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.xml
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.SqlServer.xml
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csprojAssemblyReference.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csproj.CoreCompileInputs.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csproj.CopyComplete
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.pdb
+D:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csprojAssemblyReference.cache
+D:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csproj.CoreCompileInputs.cache
+D:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.pdb
+D:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+D:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+D:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+D:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+D:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.xml
+D:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csproj.CopyComplete
+E:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+E:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+E:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.SqlServer.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+E:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+E:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.xml
+E:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.SqlServer.xml
+E:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csprojAssemblyReference.cache
+E:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csproj.CoreCompileInputs.cache
+E:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csproj.CopyComplete
+E:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.pdb
+E:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\Presentacion.Helpers.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\XCommerce.Servicio.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.SqlServer.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\Presentacion.Helpers.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.xml
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.SqlServer.xml
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csprojAssemblyReference.cache
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csproj.CoreCompileInputs.cache
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csproj.CopyComplete
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.pdb

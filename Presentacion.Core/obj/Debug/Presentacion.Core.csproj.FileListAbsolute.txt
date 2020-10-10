@@ -1,0 +1,240 @@
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Constantes.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Constantes.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00001_Empleados.resources
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\bin\Debug\XCommerce.Servicio.Core.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\bin\Debug\XCommerce.AccesoDatos.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\bin\Debug\EntityFramework.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\bin\Debug\XCommerce.Servicio.Core.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\bin\Debug\XCommerce.Servicio.Core.dll.config
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\bin\Debug\XCommerce.AccesoDatos.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\bin\Debug\XCommerce.AccesoDatos.dll.config
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\bin\Debug\EntityFramework.xml
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00002_ABM_Empleados.resources
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Helpers.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Helpers.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00006_Provincia_ABM.resources
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Constantes.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Helpers.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\bin\Debug\XCommerce.Servicio.Core.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\bin\Debug\XCommerce.AccesoDatos.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\bin\Debug\EntityFramework.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Constantes.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Helpers.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\bin\Debug\XCommerce.Servicio.Core.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\bin\Debug\XCommerce.Servicio.Core.dll.config
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\bin\Debug\XCommerce.AccesoDatos.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\bin\Debug\XCommerce.AccesoDatos.dll.config
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\bin\Debug\EntityFramework.xml
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00001_Empleados.resources
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00002_ABM_Empleados.resources
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00006_Provincia_ABM.resources
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00005_Provincia.resources
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00007_Localidad.resources
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00008_Localidad_ABM.resources
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\Presentacion.Constantes.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\Presentacion.Helpers.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\XCommerce.Servicio.Core.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\XCommerce.AccesoDatos.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\EntityFramework.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\Presentacion.Constantes.pdb
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\Presentacion.Helpers.pdb
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\XCommerce.Servicio.Core.pdb
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\XCommerce.Servicio.Core.dll.config
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\XCommerce.AccesoDatos.pdb
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\XCommerce.AccesoDatos.dll.config
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\EntityFramework.xml
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00001_Empleados.resources
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00002_ABM_Empleados.resources
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00007_Localidad.resources
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00008_Localidad_ABM.resources
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00005_Provincia.resources
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00006_Provincia_ABM.resources
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\Presentacion.Constantes.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\Presentacion.Helpers.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\XCommerce.Servicio.Core.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\XCommerce.AccesoDatos.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\EntityFramework.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\Presentacion.Constantes.pdb
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.pdb
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\Presentacion.Helpers.pdb
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\XCommerce.Servicio.Core.pdb
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\XCommerce.Servicio.Core.dll.config
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\XCommerce.AccesoDatos.pdb
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\XCommerce.AccesoDatos.dll.config
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\bin\Debug\EntityFramework.xml
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00001_Empleados.resources
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00002_ABM_Empleados.resources
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00007_Localidad.resources
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00008_Localidad_ABM.resources
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00005_Provincia.resources
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00006_Provincia_ABM.resources
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Constantes.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Helpers.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\bin\Debug\XCommerce.Servicio.Core.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\bin\Debug\XCommerce.AccesoDatos.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\bin\Debug\EntityFramework.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Constantes.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Helpers.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\bin\Debug\XCommerce.Servicio.Core.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\bin\Debug\XCommerce.Servicio.Core.dll.config
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\bin\Debug\XCommerce.AccesoDatos.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\bin\Debug\XCommerce.AccesoDatos.dll.config
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\bin\Debug\EntityFramework.xml
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00001_Empleados.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00002_ABM_Empleados.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00007_Localidad.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00008_Localidad_ABM.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00005_Provincia.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00006_Provincia_ABM.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00004_Clientes_ABM.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\bin\Debug\XCommerce.Servicio.Core.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\bin\Debug\XCommerce.Servicio.Core.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\bin\Debug\XCommerce.Servicio.Core.dll.config
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00004_Clientes_ABM.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00001_Empleados.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00002_ABM_Empleados.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00007_Localidad.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00008_Localidad_ABM.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00005_Provincia.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00006_Provincia_ABM.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00012_Rubro_ABM.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00014_Marca_ABM.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00011_Rubro.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.BajaArticulo._00016_BajaArticulo_ABM.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.MotivoBaja._00018_MotivoBaja_ABM.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00034_Articulo_ABM.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._00036_ListaPrecios_ABM.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00013_Marca.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00014_Marca_ABM.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Precio._00026_Precio_ABM.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00011_Rubro.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00012_Rubro_ABM.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._0023_Empresa.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._0024_Empresa_ABM.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Iva._0021_Iva.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Iva._0022_Iva_ABM.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa.Control.MesaControl.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._0028_Mesa.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._0029_Mesa_ABM.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._0019_Salon.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._0020_Salon_ABM.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_Salon._0030_ComprobanteMesa.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_Salon._0031_FacturacionMesa.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_Salon._0032_VentaSalon.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00038_Reserva_ABM.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00043_FormaPago_ABM.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Movimiento._00042_Movimiento_ABM.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedores._00040_Proveedores_ABM.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00046_Clientes_CuentaCorriente.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._0044_AbrirCaja.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._0045_CerrarCaja.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\bin\Debug\XCommerce.Servicio.Seguridad.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Core\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.BajaArticulo._00016_BajaArticulo_ABM.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.MotivoBaja._00018_MotivoBaja_ABM.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00034_Articulo_ABM.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._0044_AbrirCaja.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._0045_CerrarCaja.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._0023_Empresa.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._0024_Empresa_ABM.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00043_FormaPago_ABM.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Iva._0021_Iva.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Iva._0022_Iva_ABM.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._00036_ListaPrecios_ABM.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00013_Marca.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa.Control.MesaControl.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._0028_Mesa.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._0029_Mesa_ABM.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Precio._00026_Precio_ABM.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedores._00040_Proveedores_ABM.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00038_Reserva_ABM.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._0019_Salon.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._0020_Salon_ABM.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_Salon._0030_ComprobanteMesa.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_Salon._0031_FacturacionMesa.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_Salon._0032_VentaSalon.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00046_PagarCuentaCorriente.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00033_Articulo.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._00035_ListaPrecios.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Precio._00025_Precio.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00003_Clientes.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.BajaArticulo._00015_BajaArticulo.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.MotivoBaja._00017_MotivoBaja.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00048_LookUp_Articulos.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00047_LookUp_Clientes.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Kiosko._00049_Kiosko.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio.ArticuloLookUp.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Movimiento._00041_Movimiento.resources

@@ -1,0 +1,35 @@
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache

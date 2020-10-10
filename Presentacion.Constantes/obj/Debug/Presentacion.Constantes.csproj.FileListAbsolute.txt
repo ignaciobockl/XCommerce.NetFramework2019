@@ -1,0 +1,46 @@
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.Properties.Resource.resources
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.GenerateResource.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.CoreCompileInputs.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csprojAssemblyReference.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.Properties.Resource.resources
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.GenerateResource.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.CoreCompileInputs.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.pdb
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.pdb
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csprojAssemblyReference.cache
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.Properties.Resource.resources
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.GenerateResource.cache
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.CoreCompileInputs.cache
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.pdb
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.pdb
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csprojAssemblyReference.cache
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.Properties.Resource.resources
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.GenerateResource.cache
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.CoreCompileInputs.cache
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.Properties.Resource.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.GenerateResource.cache
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.CoreCompileInputs.cache
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.Properties.Resource.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csprojAssemblyReference.cache

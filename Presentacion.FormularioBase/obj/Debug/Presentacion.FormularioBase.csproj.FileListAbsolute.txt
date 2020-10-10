@@ -1,0 +1,93 @@
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioABM.resources
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.pdb
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+D:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.pdb
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+E:\Mega\Integrador LAB 2\XCommerce Daud\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.pdb
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+E:\Mega\Tecnicatura Superior en Programacion\2 Cuatrimestre\Laboratorio de Computacion II\FINAL\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\Lenovo\Desktop\Nueva carpeta (2)\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb

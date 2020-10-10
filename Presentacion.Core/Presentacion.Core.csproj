@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{182430F6-1EC5-4ABB-91D9-15E4C382C9ED}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Presentacion.Core</RootNamespace>
+    <AssemblyName>Presentacion.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Articulo\BajaArticulo\_00015_BajaArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Articulo\BajaArticulo\_00015_BajaArticulo.Designer.cs">
+      <DependentUpon>_00015_BajaArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Articulo\BajaArticulo\_00016_BajaArticulo_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Articulo\BajaArticulo\_00016_BajaArticulo_ABM.Designer.cs">
+      <DependentUpon>_00016_BajaArticulo_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Articulo\MotivoBaja\_00017_MotivoBaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Articulo\MotivoBaja\_00017_MotivoBaja.Designer.cs">
+      <DependentUpon>_00017_MotivoBaja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Articulo\MotivoBaja\_00018_MotivoBaja_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Articulo\MotivoBaja\_00018_MotivoBaja_ABM.Designer.cs">
+      <DependentUpon>_00018_MotivoBaja_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Articulo\_00033_Articulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Articulo\_00033_Articulo.Designer.cs">
+      <DependentUpon>_00033_Articulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Articulo\_00034_Articulo_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Articulo\_00034_Articulo_ABM.Designer.cs">
+      <DependentUpon>_00034_Articulo_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Articulo\_00048_LookUp_Articulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Articulo\_00048_LookUp_Articulos.Designer.cs">
+      <DependentUpon>_00048_LookUp_Articulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Caja\_0044_AbrirCaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Caja\_0044_AbrirCaja.Designer.cs">
+      <DependentUpon>_0044_AbrirCaja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Caja\_0045_CerrarCaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Caja\_0045_CerrarCaja.Designer.cs">
+      <DependentUpon>_0045_CerrarCaja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente\_00003_Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente\_00003_Clientes.Designer.cs">
+      <DependentUpon>_00003_Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente\_00004_Clientes_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente\_00004_Clientes_ABM.Designer.cs">
+      <DependentUpon>_00004_Clientes_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente\_00046_PagarCuentaCorriente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente\_00046_PagarCuentaCorriente.designer.cs">
+      <DependentUpon>_00046_PagarCuentaCorriente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente\_00047_LookUp_Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente\_00047_LookUp_Clientes.Designer.cs">
+      <DependentUpon>_00047_LookUp_Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleado\_00001_Empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleado\_00001_Empleados.Designer.cs">
+      <DependentUpon>_00001_Empleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleado\_00002_ABM_Empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleado\_00002_ABM_Empleados.Designer.cs">
+      <DependentUpon>_00002_ABM_Empleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empresa\_0023_Empresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empresa\_0023_Empresa.Designer.cs">
+      <DependentUpon>_0023_Empresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empresa\_0024_Empresa_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empresa\_0024_Empresa_ABM.Designer.cs">
+      <DependentUpon>_0024_Empresa_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormaPago\_00043_FormaPago_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormaPago\_00043_FormaPago_ABM.Designer.cs">
+      <DependentUpon>_00043_FormaPago_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Iva\_0021_Iva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Iva\_0021_Iva.Designer.cs">
+      <DependentUpon>_0021_Iva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Iva\_0022_Iva_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Iva\_0022_Iva_ABM.Designer.cs">
+      <DependentUpon>_0022_Iva_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kiosko\_00049_Kiosko.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kiosko\_00049_Kiosko.Designer.cs">
+      <DependentUpon>_00049_Kiosko.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListaPrecio\ArticuloLookUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListaPrecio\ArticuloLookUp.Designer.cs">
+      <DependentUpon>ArticuloLookUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListaPrecio\_00035_ListaPrecios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListaPrecio\_00035_ListaPrecios.Designer.cs">
+      <DependentUpon>_00035_ListaPrecios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListaPrecio\_00036_ListaPrecios_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListaPrecio\_00036_ListaPrecios_ABM.Designer.cs">
+      <DependentUpon>_00036_ListaPrecios_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Localidad\_00007_Localidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Localidad\_00007_Localidad.Designer.cs">
+      <DependentUpon>_00007_Localidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Localidad\_00008_Localidad_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Localidad\_00008_Localidad_ABM.Designer.cs">
+      <DependentUpon>_00008_Localidad_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Marca\_00013_Marca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marca\_00013_Marca.Designer.cs">
+      <DependentUpon>_00013_Marca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Marca\_00014_Marca_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marca\_00014_Marca_ABM.Designer.cs">
+      <DependentUpon>_00014_Marca_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mesa\Control\MesaControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Mesa\Control\MesaControl.Designer.cs">
+      <DependentUpon>MesaControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mesa\_0028_Mesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mesa\_0028_Mesa.Designer.cs">
+      <DependentUpon>_0028_Mesa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mesa\_0029_Mesa_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mesa\_0029_Mesa_ABM.Designer.cs">
+      <DependentUpon>_0029_Mesa_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movimiento\_00041_Movimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimiento\_00041_Movimiento.Designer.cs">
+      <DependentUpon>_00041_Movimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Precio\_00025_Precio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Precio\_00025_Precio.Designer.cs">
+      <DependentUpon>_00025_Precio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Precio\_00026_Precio_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Precio\_00026_Precio_ABM.Designer.cs">
+      <DependentUpon>_00026_Precio_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedor\_00039_Proveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedor\_00039_Proveedores.Designer.cs">
+      <DependentUpon>_00039_Proveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedor\_00040_Proveedores_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedor\_00040_Proveedores_ABM.Designer.cs">
+      <DependentUpon>_00040_Proveedores_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Provincia\_00005_Provincia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Provincia\_00005_Provincia.Designer.cs">
+      <DependentUpon>_00005_Provincia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Provincia\_00006_Provincia_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Provincia\_00006_Provincia_ABM.Designer.cs">
+      <DependentUpon>_00006_Provincia_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reserva\_00037_Reserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reserva\_00037_Reserva.Designer.cs">
+      <DependentUpon>_00037_Reserva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reserva\_00038_Reserva_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reserva\_00038_Reserva_ABM.Designer.cs">
+      <DependentUpon>_00038_Reserva_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rubro\_00011_Rubro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rubro\_00011_Rubro.Designer.cs">
+      <DependentUpon>_00011_Rubro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rubro\_00012_Rubro_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rubro\_00012_Rubro_ABM.Designer.cs">
+      <DependentUpon>_00012_Rubro_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salon\_0019_Salon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salon\_0019_Salon.Designer.cs">
+      <DependentUpon>_0019_Salon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salon\_0020_Salon_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salon\_0020_Salon_ABM.Designer.cs">
+      <DependentUpon>_0020_Salon_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Venta Salon\_0030_ComprobanteMesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Venta Salon\_0030_ComprobanteMesa.Designer.cs">
+      <DependentUpon>_0030_ComprobanteMesa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Venta Salon\_0031_FacturacionMesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Venta Salon\_0031_FacturacionMesa.Designer.cs">
+      <DependentUpon>_0031_FacturacionMesa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Venta Salon\_0032_VentaSalon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Venta Salon\_0032_VentaSalon.Designer.cs">
+      <DependentUpon>_0032_VentaSalon.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Presentacion.Constantes\Presentacion.Constantes.csproj">
+      <Project>{821ca114-c145-4c90-849f-60b42fe38a06}</Project>
+      <Name>Presentacion.Constantes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Presentacion.FormularioBase\Presentacion.FormularioBase.csproj">
+      <Project>{ACC22144-B679-493E-9F49-B73CE144ACB3}</Project>
+      <Name>Presentacion.FormularioBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Presentacion.Helpers\Presentacion.Helpers.csproj">
+      <Project>{f6d40e35-e44b-49ca-be98-d26289745b2e}</Project>
+      <Name>Presentacion.Helpers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\XCommerce.AccesoDatos\XCommerce.AccesoDatos.csproj">
+      <Project>{2E0604EF-1BF3-4FF2-A5E1-055A911F03D9}</Project>
+      <Name>XCommerce.AccesoDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\XCommerce.Servicio.Core\XCommerce.Servicio.Core.csproj">
+      <Project>{1CF1F9E3-2B3B-41C4-82C8-2C963E085FD4}</Project>
+      <Name>XCommerce.Servicio.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\XCommerce.Servicio.Seguridad\XCommerce.Servicio.Seguridad.csproj">
+      <Project>{1374907B-79E9-4A1D-84B4-DA03AEF86C55}</Project>
+      <Name>XCommerce.Servicio.Seguridad</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Articulo\BajaArticulo\_00015_BajaArticulo.resx">
+      <DependentUpon>_00015_BajaArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Articulo\BajaArticulo\_00016_BajaArticulo_ABM.resx">
+      <DependentUpon>_00016_BajaArticulo_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Articulo\MotivoBaja\_00017_MotivoBaja.resx">
+      <DependentUpon>_00017_MotivoBaja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Articulo\MotivoBaja\_00018_MotivoBaja_ABM.resx">
+      <DependentUpon>_00018_MotivoBaja_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Articulo\_00033_Articulo.resx">
+      <DependentUpon>_00033_Articulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Articulo\_00034_Articulo_ABM.resx">
+      <DependentUpon>_00034_Articulo_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Articulo\_00048_LookUp_Articulos.resx">
+      <DependentUpon>_00048_LookUp_Articulos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Caja\_0044_AbrirCaja.resx">
+      <DependentUpon>_0044_AbrirCaja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Caja\_0045_CerrarCaja.resx">
+      <DependentUpon>_0045_CerrarCaja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente\_00003_Clientes.resx">
+      <DependentUpon>_00003_Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente\_00004_Clientes_ABM.resx">
+      <DependentUpon>_00004_Clientes_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente\_00046_PagarCuentaCorriente.resx">
+      <DependentUpon>_00046_PagarCuentaCorriente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente\_00047_LookUp_Clientes.resx">
+      <DependentUpon>_00047_LookUp_Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleado\_00001_Empleados.resx">
+      <DependentUpon>_00001_Empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleado\_00002_ABM_Empleados.resx">
+      <DependentUpon>_00002_ABM_Empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empresa\_0023_Empresa.resx">
+      <DependentUpon>_0023_Empresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empresa\_0024_Empresa_ABM.resx">
+      <DependentUpon>_0024_Empresa_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormaPago\_00043_FormaPago_ABM.resx">
+      <DependentUpon>_00043_FormaPago_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Iva\_0021_Iva.resx">
+      <DependentUpon>_0021_Iva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Iva\_0022_Iva_ABM.resx">
+      <DependentUpon>_0022_Iva_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kiosko\_00049_Kiosko.resx">
+      <DependentUpon>_00049_Kiosko.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListaPrecio\ArticuloLookUp.resx">
+      <DependentUpon>ArticuloLookUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListaPrecio\_00035_ListaPrecios.resx">
+      <DependentUpon>_00035_ListaPrecios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListaPrecio\_00036_ListaPrecios_ABM.resx">
+      <DependentUpon>_00036_ListaPrecios_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localidad\_00007_Localidad.resx">
+      <DependentUpon>_00007_Localidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localidad\_00008_Localidad_ABM.resx">
+      <DependentUpon>_00008_Localidad_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marca\_00013_Marca.resx">
+      <DependentUpon>_00013_Marca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marca\_00014_Marca_ABM.resx">
+      <DependentUpon>_00014_Marca_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mesa\Control\MesaControl.resx">
+      <DependentUpon>MesaControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mesa\_0028_Mesa.resx">
+      <DependentUpon>_0028_Mesa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mesa\_0029_Mesa_ABM.resx">
+      <DependentUpon>_0029_Mesa_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimiento\_00041_Movimiento.resx">
+      <DependentUpon>_00041_Movimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Precio\_00025_Precio.resx">
+      <DependentUpon>_00025_Precio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Precio\_00026_Precio_ABM.resx">
+      <DependentUpon>_00026_Precio_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proveedor\_00040_Proveedores_ABM.resx">
+      <DependentUpon>_00040_Proveedores_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Provincia\_00005_Provincia.resx">
+      <DependentUpon>_00005_Provincia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Provincia\_00006_Provincia_ABM.resx">
+      <DependentUpon>_00006_Provincia_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reserva\_00038_Reserva_ABM.resx">
+      <DependentUpon>_00038_Reserva_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rubro\_00011_Rubro.resx">
+      <DependentUpon>_00011_Rubro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rubro\_00012_Rubro_ABM.resx">
+      <DependentUpon>_00012_Rubro_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salon\_0019_Salon.resx">
+      <DependentUpon>_0019_Salon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salon\_0020_Salon_ABM.resx">
+      <DependentUpon>_0020_Salon_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Venta Salon\_0030_ComprobanteMesa.resx">
+      <DependentUpon>_0030_ComprobanteMesa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Venta Salon\_0031_FacturacionMesa.resx">
+      <DependentUpon>_0031_FacturacionMesa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Venta Salon\_0032_VentaSalon.resx">
+      <DependentUpon>_0032_VentaSalon.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nuevo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carrito-de-compras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\escoba.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-cart-2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
